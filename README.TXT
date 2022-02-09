@@ -1,12 +1,7 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+Simple Greenfoot two-level game (Level1: Maze ,Level2: Jumping) used in the Object Oriented Programming Java course.
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE:Naruto Game.
+HOW TO START THIS PROJECT: Open 'project.greenfoot' and follow the game instruction.
+AUTHORS:Kerroumi Hajar, Zahia-Elkhalifi, Jabri Latifa, Ghammouri Asmae.
